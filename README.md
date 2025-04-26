@@ -14,17 +14,9 @@ As a business analyst, you are expected to create the Business requirements docu
 ### 2. SRS for Loan Application and Approval System
 Loan approval system needs is developed for a large Car agency having multiple showrooms in Mumbai. This system will automate the process of loan application, verification & approval. The loans will be approved based on document scrutiny, CIBIL Credit score and some other business rules but the approval of loan will be on Risk Manager’s offline decision. As a business analyst, participated in the requirements gathering meetings and after you have gathered the requirements, you are expected to create a system requirements specifications (SRS) document. [LAAS SRS.PDF](https://github.com/SREEJITA-MAJUMDER/BUSINESS-ANALYST-PORTFOLIO/raw/main/SRS%20for%20loan%20application%20and%20approval%20system.pdf)
 
-### 3. User Stories & Backlog Items
-- Exported user stories from Jira (anonymized)
-- Sample of EPICs, features, and acceptance criteria
-
-### 4. Analytical & Operational Reports
-- Monthly sales performance report (Excel & Word)
-- Dashboard snapshot (Power BI screenshot in `/visuals/` folder)
-
-### 5. Stakeholder Presentation Decks
-- PowerPoint deck used for project kick-off
-- Status reporting template (updated weekly)
+### 3. Use case based SRS for LMS
+A Library Management System is an automated software system in an institution. Students and faculty are members of the library and have to be registered in the LMS system to avail the facility. The librarian manages the offline and online system. Books are added/Edited/Deleted in the library by the librarian. The books purchased by the librarian are of 3 types – Journals, Magazines, Study books. Each book is placed at a specified location. Students and faculties are members of the library and they are supposed to pay a fees for getting a book from the library. When a member requests for a book, LMS checks for its availability and if it is available, it is issued to the member. When a book is issued, it is given for a fixed period and if there is a delay in returning the book, a fees is fined. Every member has a limit of max number of books, that can be issued.
+Create a use case specification document for issuing a book. It should include the screend design as well as the data model.
 
 ---
 
