@@ -9,11 +9,10 @@ Business Analyst with 10+ years of experience in gathering requirements, creatin
 ### 1. Business Requirements Documents (BRDs)
 Loan approval system needs is developed for a large Car agency having multiple showrooms in Mumbai. This system will automate the process of loan application, verification & approval. The loans will be approved based on document scrutiny, CIBIL Credit score and some other business rules but the approval of loan will be on Risk Manager’s offline decision.
 As a business analyst, you are expected to create the Business requirements document for the customer to be given to the IT vendor.
-- Sample BRD for a Loan Application and approval system (LAAS) project - [LAAS BRD.DOCX](https://github.com/SREEJITA-MAJUMDER/SREEJITA-S-PROJECT-PORTFOLIO/raw/main/LAAS-Business%20Requirement%20Document.docx)
+- Sample BRD for a Loan Application and approval system (LAAS) project - [LAAS BRD.PDF](https://github.com/SREEJITA-MAJUMDER/BUSINESS-ANALYST-PORTFOLIO/raw/main/LAAS-Business%20Requirement%20Document.pdf)
 
-### 2. Functional Specification Documents (FSDs)
-- Functional specs for an e-commerce platform
-- Includes user interface mockups and data flow diagrams
+### 2. SRS for Loan Application and Approval System
+Loan approval system needs is developed for a large Car agency having multiple showrooms in Mumbai. This system will automate the process of loan application, verification & approval. The loans will be approved based on document scrutiny, CIBIL Credit score and some other business rules but the approval of loan will be on Risk Manager’s offline decision. As a business analyst, participated in the requirements gathering meetings and after you have gathered the requirements, you are expected to create a system requirements specifications (SRS) document. [LAAS SRS.PDF](https://github.com/SREEJITA-MAJUMDER/BUSINESS-ANALYST-PORTFOLIO/raw/main/SRS%20for%20loan%20application%20and%20approval%20system.pdf)
 
 ### 3. User Stories & Backlog Items
 - Exported user stories from Jira (anonymized)
