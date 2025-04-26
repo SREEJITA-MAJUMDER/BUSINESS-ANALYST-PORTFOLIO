@@ -10,7 +10,7 @@ Business Analyst with 10+ years of experience in gathering requirements, creatin
 ## 📂 Contents
 
 ### 1. Business Requirements Documents (BRDs)
-- [Sample BRD for a Loan Application and approval system (LAAS) project] - (https://github.com/SREEJITA-MAJUMDER/SREEJITA-S-PROJECT-PORTFOLIO/blob/main/LAAS-Business%20Requirement%20Document.docx)
+- [Sample BRD for a Loan Application and approval system (LAAS) project.docx] - (https://github.com/SREEJITA-MAJUMDER/SREEJITA-S-PROJECT-PORTFOLIO/blob/main/LAAS-Business%20Requirement%20Document.docx)
 - Emphasis on stakeholder analysis, current/future state process flows
 
 ### 2. Functional Specification Documents (FSDs)
