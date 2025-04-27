@@ -16,7 +16,7 @@ Loan approval system needs is developed for a large Car agency having multiple s
 
 ### 3. Use case based SRS for LMS
 A Library Management System is an automated software system in an institution. Students and faculty are members of the library and have to be registered in the LMS system to avail the facility. The librarian manages the offline and online system. Books are added/Edited/Deleted in the library by the librarian. The books purchased by the librarian are of 3 types – Journals, Magazines, Study books. Each book is placed at a specified location. Students and faculties are members of the library and they are supposed to pay a fees for getting a book from the library. When a member requests for a book, LMS checks for its availability and if it is available, it is issued to the member. When a book is issued, it is given for a fixed period and if there is a delay in returning the book, a fees is fined. Every member has a limit of max number of books, that can be issued.
-Create a use case specification document for issuing a book. It should include the screend design as well as the data model.
+Create a use case specification document for issuing a book. It should include the screend design as well as the data model.[LMS- USE CASE.PDF](https://github.com/SREEJITA-MAJUMDER/BUSINESS-ANALYST-PORTFOLIO/raw/main/LMS-%20USE%20CASE.pdf)
 
 ---
 
